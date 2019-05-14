@@ -1,4 +1,4 @@
-module github.com/swaggo/v2gay
+module github.com/v2gay/gin-swagger
 
 require (
 	github.com/gin-contrib/gzip v0.0.1
